@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![I've worked the most on](https://github-readme-stats.vercel.app/api/top-langs/?username=josempena)](https://github.com/josempena/github-readme-stats)
 
-[![Some wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josempena)](https://github.com/josempena/github-readme-stats)
+[![Some wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/josempena/github-readme-stats)
