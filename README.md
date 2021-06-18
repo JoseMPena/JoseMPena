@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working as CTO at Botcity
+
+[![This is what've been working on](https://github-readme-stats.vercel.app/api?username=josempena)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=truetheme=gradient)
+
+[![I've worked the most on](https://github-readme-stats.vercel.app/api/top-langs/?username=josmpena)](https://github.com/josmpena/github-readme-stats)
+
+[![Some wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josmpena)](https://github.com/josmpena/github-readme-stats)
