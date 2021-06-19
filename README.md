@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=josempena&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/josempena/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josempena&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JoseMPena&theme=radical" />
 </a>
 
-[![Some wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoseMPena&theme=radical)](https://github.com/josempena/github-readme-stats)
+[![Some other stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josempena&theme=radical)](https://github.com/josempena/github-readme-stats)
 
