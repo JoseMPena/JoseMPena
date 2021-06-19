@@ -4,6 +4,9 @@
 
 ### 🔭 CTO and Co-Founder at Botcity
 
+![Hello](https://user-images.githubusercontent.com/3136890/122640186-54ecae80-d0fe-11eb-959b-a286ce8315cf.png)
+
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app?username=josempena&theme=radical" />
 </a>
