@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working as CTO at Botcity
 
-[![This is what've been working on](https://github-readme-stats.vercel.app/api?username=josempena)](https://github.com/anuraghazra/github-readme-stats?count_private=true&show_icons=truetheme=radical)
+[![This is what've been working on](https://github-readme-stats.vercel.app/api?username=josempena&count_private=true&show_icons=truetheme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![I've worked the most on](https://github-readme-stats.vercel.app/api/top-langs/?username=josempena)](https://github.com/josempena/github-readme-stats)
 
